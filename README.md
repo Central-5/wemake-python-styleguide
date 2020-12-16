@@ -138,5 +138,3 @@ See ["Contributing"](https://wemake-python-stylegui.de/en/latest/pages/api/index
 
 You can start with [issues that need some help](https://github.com/wemake-services/wemake-python-styleguide/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 right now.
-
-This branch is used for resolving issue 1276
